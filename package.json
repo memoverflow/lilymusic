@@ -1,0 +1,29 @@
+{
+  "name": "lilymusic",
+  "version": "0.9.0",
+  "description": "lily music, I hate I can not download songs from all music platform.",
+  "main": "app.js",
+  "dependencies": {
+    "doubanfm-sdk": "^2.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuren87/lilymusic.git"
+  },
+  "keywords": [
+    "lily",
+    "douban",
+    "music",
+    "song"
+  ],
+  "author": "Lucas Ren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xuren87/lilymusic/issues"
+  },
+  "homepage": "https://github.com/xuren87/lilymusic#readme"
+}
